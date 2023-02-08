@@ -1,0 +1,19 @@
+{
+  "name": "remwind",
+  "version": "0.0.0",
+  "description": "Build beautiful docs with remwind CLI",
+  "author": "jardelgoncalves <jardelgoncalves1996@gmail.com>",
+  "homepage": "https://github.com/jardelgoncalves/remwind#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardelgoncalves/remwind.git"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/jardelgoncalves/remwind/issues"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
